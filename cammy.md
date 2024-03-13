@@ -42,13 +42,14 @@ diving into the character a bit more
 	* 5LP\2LP is always interchangeable, 2LK chains into 5LP\2LP but does not cancel into specials, 5LK has more range and is a good cancelable end of a string if you don't think other light buttons will hit
 - In the corner, you can use 2MP 5MP xx H.Spiral Arrow (corner carry) or H.Cannon Spike (damage in corner)
 	* This'll let you follow up blocked 2MP with a gapless throw
+
 **Cross Ups**
 - Jump forward LK
 	* Jab|Throw mixup on block
 	* 5LP 5LP xx M.Spiral Arrow on confirm out of blockstring
 	* 4MP~4HK(tc) forward J.mp xx divekick is better damage when confirming the cross up
 - OD Divekick juggles and can be followed up with SA3|SA1 or H.CannonSpike
-- 
+ 
 **Burn Out**
 - 5HP xx L.SpinKnuckle 2LP times infinity
 	* they can mash super after the 2LP to get out of it
