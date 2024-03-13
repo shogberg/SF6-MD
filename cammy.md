@@ -7,9 +7,10 @@
 - DiveKick jab, jab xx M.SpiralArrow
 	* Don't press a button if the divekick is blocked above the waist (or hits around shoulder|head)
 - Oki: 2HP, 5HP  xx H.SpiralArrow
+	* if 5HP is blocked you can xx L.SpinKnuckle safely
 - Cross Up: Jump LK, 2LP, 2LP xx M.SpiralArrow
 - DP Punish: 2HP, 5HP xx DR 4HK H.SpiralArrow M.CannonSpike
-- SA3: 2MK xx DRC 5HP, 4MP~4HK(TC), SA3
+- SA3: 2MK xx DR 5HP, 4MP~4HK(TC), SA3
 	* have to confirm into 4HK
 	* can also start with 2MP or 5HP
 - SA3 off Oki: 2HP, 5HP xx L.SpinKnuckle xx SA3
