@@ -36,6 +36,7 @@
 - Counter Hit
 	* 2|5LP, 2MP xx M.SpiralArrow | M.CannonSpike
 		- Or extend with drive rush cancel into 2HP 5HP xx M.SpiralArrow|M.CannonSpike
+  - 
 **Oki**
 - 2HP, 5HP xx H.Spiral Arrow (corner carry) or H.Cannon Spike (damage in corner)
 	* Blocked 2HP needs a walk to throw, gap here you can get jabbed
