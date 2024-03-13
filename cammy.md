@@ -90,7 +90,7 @@
 - 2MK DR xx 2HP, 4HK slight delay M.SpiralArrow (aim for +41, jump forward HP)
 
 **Cash Out (execution easiest to hardest, catch someone with 2MK, 2MP or 2HP to start combo)**
-- xx DR 2HP, 5HP xx DR 4HK, 4HK xx SA3
+- xx DR 2HP, 5HP xx DR 4HK, 4HK, SA3
 	* Only do a single 4HK if not cornered
 - xx DR 2HP, 5HP xx DR 2HP, 5HP xx L.SpinKnuckle xx SA3
 - xx DR 2HP, 5HP xx DR 2HP, 5HP xx Charged H.CannonSpike xx SA3
