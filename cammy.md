@@ -9,7 +9,7 @@ day 1 combos to get started
 - Oki: 2HP, 5HP  xx H.SpiralArrow
 - Cross Up: Jump LK, 2LP, 2LP xx M.SpiralArrow
 - DP Punish: 2HP, 5HP xx DR 4HK H.SpiralArrow M.CannonSpike
-- SA3: 2MK xx DRC 5HP 4MP~4HK(TC) SA3
+- SA3: 2MK xx DRC 5HP, 4MP~4HK(TC), SA3
 	* have to confirm into 4HK
 	* can also start with 2MP or 5HP
 - SA3 off Oki: 2HP 5HP xx L.SpinKnuckle xx SA3
