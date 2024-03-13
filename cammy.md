@@ -71,7 +71,7 @@
 
 **Meaty Hooligans (all manually timed, use Hooligan throw or overhead)**
 - Meaty Hooligan 1: 4MP~4HK, HP.Hooligan
-	* This is the practical one, can hit this out of DR 5HP, or 5HP|2MP|2MK xx DRC
+	* This is the practical one, can hit this out of DR 5HP, or 5HP|2MP|2MK xx DR
 - Meaty Hooligan 2: 4HK, jump forward OD.Divekick HP.Hooligan
 - Meaty Hooligan 3: 5HP~5HK xx OD.Divekick, HP.Hooligan
 - Meaty Hooligan 4: 4HK xx DRC 4HK xx Charged H.Spiral Arrow HP.Hooligan
