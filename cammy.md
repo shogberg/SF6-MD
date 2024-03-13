@@ -49,7 +49,8 @@
 	* Jab|Throw mixup on block
 	* 5LP, 5LP xx M.Spiral Arrow on confirm out of blockstring
 	* 4MP~4HK(tc), forward J.mp xx divekick is better damage when confirming the cross up
-- OD Divekick juggles and can be followed up with SA3|SA1 or H.CannonSpike
+		- OD Divekick juggles and can be followed up with SA3|SA1 or H.CannonSpike
+  		- you can also cancel OD Divekick into SA2 
  
 **Burn Out**
 - 5HP xx L.SpinKnuckle, 2LP times infinity
