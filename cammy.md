@@ -56,7 +56,7 @@
 
 **Dive Kick**
 - DiveKick confirm into 2MP
-	* M.Spiral Arrow or extend with drive rush cancel), must confirm dive kick is hitting near feet for this to work
+	* xx M.Spiral Arrow or extend with drive rush cancel), must confirm dive kick is hitting near feet for this to work
 - Divekick confirm into jab, jab xx M.Spiral Arrow
 	* divekick into jab, jab is safe on block at the waist or lower, must confirm spiral arrow
 
