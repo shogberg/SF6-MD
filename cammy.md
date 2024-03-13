@@ -1,4 +1,4 @@
-day 1 combos to get started
+<ins>day 1 combos to get started</ins>
 
 - jab, jab, jab xx M.SpiralArrow
 	* 2LP and 5LP are interchangeable
@@ -14,7 +14,7 @@ day 1 combos to get started
 	* can also start with 2MP or 5HP
 - SA3 off Oki: 2HP 5HP xx L.SpinKnuckle xx SA3
 
-diving into the character a bit more
+<ins>diving into the character a bit more</ins>
 
 **Confirms**
 - 2MK|2MP|2HP xx DR 2HP, 5HP xx M.SpiralArrow (M.CannonSpike more damage, less oki|carry)
