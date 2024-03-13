@@ -12,7 +12,7 @@
 - SA3: 2MK xx DRC 5HP, 4MP~4HK(TC), SA3
 	* have to confirm into 4HK
 	* can also start with 2MP or 5HP
-- SA3 off Oki: 2HP 5HP xx L.SpinKnuckle xx SA3
+- SA3 off Oki: 2HP, 5HP xx L.SpinKnuckle xx SA3
 
 <ins>diving into the character a bit more</ins>
 
