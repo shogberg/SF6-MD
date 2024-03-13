@@ -33,14 +33,14 @@
 		- Should be able to get H.Cannon Spike in the corner (3386)
 	* 2HP, 5HP xx DR 4HK, SA3 (4544|4839) 
 - Counter Hit
-	* 2|5LP 2MP xx M.SpiralArrow | M.CannonSpike
+	* 2|5LP, 2MP xx M.SpiralArrow | M.CannonSpike
 		- Or extend with drive rush cancel into 2HP 5HP xx M.SpiralArrow|M.CannonSpike
 **Oki**
 - 2HP, 5HP xx H.Spiral Arrow (corner carry) or H.Cannon Spike (damage in corner)
 	* Blocked 2HP needs a walk to throw, gap here you can get jabbed
 - 5LP, 5LP, 5LP xx M.Spiral Arrow might be better in neutral as it is easier to tick throw
 	* 5LP\2LP is always interchangeable, 2LK chains into 5LP\2LP but does not cancel into specials, 5LK has more range and is a good cancelable end of a string if you don't think other light buttons will hit
-- In the corner, you can use 2MP, 5MP xx H.Spiral Arrow (corner carry) or H.Cannon Spike (damage in corner)
+- In the corner, you can use 2MP, 5MP xx H.Spiral Arrow (better oki) or H.Cannon Spike (better damage)
 	* This'll let you follow up blocked 2MP with a gapless throw
 
 **Cross Ups**
