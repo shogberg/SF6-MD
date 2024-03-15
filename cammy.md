@@ -16,6 +16,7 @@
 - SA3 off Oki: 2HP, 5HP xx L.SpinKnuckle xx SA3
 
 <ins>diving into the character a bit more</ins>
+- This stuff isn't necessarily optimal, more of just a starting point
 
 **Confirms**
 - 2MK|2MP|2HP xx DR 2HP, 5HP xx M.SpiralArrow (M.CannonSpike more damage, less oki|carry)
