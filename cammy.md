@@ -2,7 +2,7 @@
 
 - jab, jab, jab xx M.SpiralArrow
 	* 2LP and 5LP are interchangeable
-- 2MK xx DR 2HP, 5HP xx M.SpiralArrow
+- 2MK xx DR 2HP, 5HP xx H.SpiralArrow
 	* Can use 5HP or 2MP instead of 2MK to get the party started
 - DiveKick jab, jab xx M.SpiralArrow
 	* Don't press a button if the divekick is blocked above the waist (or hits around shoulder|head)
@@ -19,7 +19,7 @@
 - This stuff isn't necessarily optimal, more of just a starting point
 
 **Confirms**
-- 2MK|2MP|2HP xx DR 2HP, 5HP xx M.SpiralArrow (M.CannonSpike more damage, less oki|carry)
+- 2MK|2MP|2HP xx DR 2HP, 5HP xx H.SpiralArrow (H.CannonSpike more damage, less oki|carry)
 	* if you're drive rushing off a blocked button go into jabs to pressure, 5HP is worth messing with too but is less safe
 - jab, jab, jab xx M.SpiralArrow (M.CannonSpike more damage, less oki|carry)
 	* 5LP and 2LP are interchangeable.  5LK is also cancelable and has a bit more range but does not chain into another jab.  2LK chains into either light punch for mixing up block strings
