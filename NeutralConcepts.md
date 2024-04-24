@@ -29,6 +29,6 @@
   - 5HP xx DR 2HP,throw requires a microwalk forward, and can be dp'd but not jabbed
   - 5HP xx DR 2HP 5HP <combo ender \ cash out \ whatever)
 
-**5MK \ 5HK **
+**5MK \ 5HK**
 - Use 5MK to control space, learn the distance real well.  Minus on block, but safe if spaced.  Can often do 5MK, 5HK to catch people walking forward after they block 5MK.  5MK, 5HP will space trap people mashing
 - Use 5HK to sit comfortably at range and whiff punish.  You don't get much damage conversion, but it knocks people to the corner
