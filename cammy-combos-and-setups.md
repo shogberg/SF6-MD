@@ -109,6 +109,15 @@
 - Charged Hooligan Overhead (2K), 5HP xx DR 2HP, 5HP xx {DR 2HP 5HP xx} Charged H.CannonSpike xx SA3 (5638|5888) {5387|5637} 
 	* as above, Charged Cannon Spike can be changed to 4HK SA3 or L.SpinKnuckle XX SA3 for less damage but easier execution
 
-**TODO**
-- block strings
-- frame\space traps
+** Frame Traps and Strike Throw 50/50s **
+- DR 5MP, 5MP
+	* DR 5MP, Throw needs a microwalk
+ 	* confirm hit into 2MP xx (drive rush to extend or H.SpiralArrow or H.CannonSpike)
+- DR 5HP, 5HP
+  	* Non Driverush 5HP, 5HP also frame traps if spaced properly
+  	* DR 5HP, Throw
+  	* Confirm into 2MP xx
+- DR 5LP, 5LP, 5LK
+  	* DR 5LP, Throw
+  	* Confirm into M.SpiralArrow or M.CannonSpike  
+
