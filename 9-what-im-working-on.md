@@ -10,3 +10,7 @@
 
 **Overhead reset (minus on block)**
 - 4MP~~4HK xx H.Hooligan 2K xx H.Hooligan 2K
+
+**SA3 Oki**
+- L.SpiralArrow
+- DR 5HP (trades)
