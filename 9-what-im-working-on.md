@@ -14,3 +14,7 @@
 **SA3 Oki**
 - L.SpiralArrow
 - DR 5HP (trades)
+
+**Jabs in neutral**
+- hitconfirm CH to 2MP
+- fast non-commital option, stuffs a lot of pokes
