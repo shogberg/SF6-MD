@@ -3,6 +3,7 @@
 **Meaty Spin Knuckle Set ups**
 - Charged Hooligan (or ex hooligan) throw xx M.Spiral Arrow, FRAMEKILL 5LP, H.Spin Knuckle
 - 5LP, 5LP, 5LK xx M.Spiral Arrow, H.SpinKnuckle
+- You can Frametrap 4MP ~~ 4HK after H.SpinKnuckle in these set ups, or whiff jab and l.hooligan to bait OD DP
 
 **Meaty Divekick setup (plus on block)**
 - 4MP~~4HK, Forward J.mp xx Medium Divekick, Medium Divekick
