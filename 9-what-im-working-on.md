@@ -2,6 +2,7 @@
 **Meaty Driverush OD Spin Knuckle**
 - this seems to lose to throw, but beats a lot of wake up supers, may be a situational option
   * works well vs projectile supers since its proj invul.  Might be pretty niche circumstances to use but worth exploring more when bored
+
 **focus on**
 - fishing for CH jab in neutral and confirm to 2MP 
 - AA consistently
