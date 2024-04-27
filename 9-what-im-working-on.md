@@ -1,3 +1,8 @@
+#4/27/24
+**Meaty Driverush OD Spin Knuckle**
+- this seems to lose to throw, but beats a lot of wake up supers, may be a situational option
+- focus on fishing for CH jab in neutral and confirm to 2MP 
+
 #4/24/24
 
 **Meaty Spin Knuckle Set ups**
