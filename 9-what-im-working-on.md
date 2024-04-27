@@ -6,6 +6,7 @@
 - fishing for CH jab in neutral and confirm to 2MP 
 - AA consistently
 - Don't overextend on offense
+
 **DP Bait vs overeager mashers**
   -2LK 5LP xx L.Hooligan baits an OD reversal and is safe vs atleast DP's (not sure if other angles will hit)
 
