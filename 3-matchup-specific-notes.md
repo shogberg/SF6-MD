@@ -3,6 +3,7 @@
 
 #Dhalsim
 - Hooligan Slide hits low, won't get hit by SA2.  Good for oki in "obvious" reversal situations.  Try 4MP~~4HK xx Charged H.Hooligan slide.
+- DR HP on reaction to yoga arc
 
 #JP
 - Amnesia response in corner: 4MP~~4HK xx DI (DR 4HK, DR 5HP xx DR 5HP xx Charged H.CannonSpike xx SA3)
