@@ -1,4 +1,5 @@
 #4/29/24
+
 **Neutral stuff vs shotos**
 - jab > crmk > crmp > jab
   * think this is generally how we wanna play neutral vs Ken\Ryu and maybe Luke too.  Divekick kinda sucks vs sthp from ken\ryu, so play around it
