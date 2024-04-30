@@ -1,3 +1,11 @@
+#4/29/24
+**Neutral stuff vs shotos**
+- jab > crmk > crmp > jab
+  * think this is generally how we wanna play neutral vs Ken\Ryu and maybe Luke too.  Divekick kinda sucks vs sthp from ken\ryu, so play around it
+ - more CH Jab 2MP stuff this is key vs better players
+ - Need to find more spots to land a safe jump and cycle through different oki options to keep people on their toes more
+  * Safe jump, launcher into dive kick into meaty divekick, launcher into hooligan overhead, medium spiral arrow H.SpinKnuckle etc
+
 #4/27/24
 
 **Meaty Driverush OD Spin Knuckle**
