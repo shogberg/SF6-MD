@@ -1,5 +1,9 @@
 #5/1/24
 
+**DP Punish**
+- Meterless in corner 2HP, 4HK, M.SpiralArrow, H.CannonSpike
+- Safejump 2HP, 4HK, M.SpiralArrow, Jump.HP
+
 **Time to learn Ken's BS**
 - Perfect parry \ DI \ DP timing for Dragonlash?
 - What to do against Jinrai?  OD DP?
