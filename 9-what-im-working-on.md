@@ -1,3 +1,17 @@
+#5/1/24
+**Time to learn Ken's BS**
+- Perfect parry \ DI \ DP timing for Dragonlash?
+- What to do against Jinrai?  OD DP?
+- What other characters have neutral skips that I don't check and let get them inside for free?
+
+**Slow down the game**
+- look for situations where I'm playing to the opponents speed instead of playing slow and methodically
+- it's ok to play fast to overwhelm someone, but this should be a choice, not the default speed
+
+**drills**
+- drill throw oki xx DP | crosscut DP
+- think we can OS H.DP and 4HK in crosscut situations in the corner by holding the final 6 in the DP motion.  H.DP should come out for neutral jump, 4HK (which we'll take into a side swap hooligan) if they jump over
+
 #4/29/24
 
 **Neutral stuff vs shotos**
