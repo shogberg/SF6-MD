@@ -1,5 +1,8 @@
 #5/1/24
 
+**Spacing**
+- Be more patient in 2MK range, otherwise good players will clip me and get free damage.  Wait for space and backdash
+
 **DP Punish**
 - Meterless in corner 2HP, 4HK, M.SpiralArrow, H.CannonSpike
 - Safejump 2HP, 4HK, M.SpiralArrow, Jump.HP
