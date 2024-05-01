@@ -5,6 +5,10 @@
 - Hooligan Slide hits low, won't get hit by SA2.  Good for oki in "obvious" reversal situations.  Try 4MP~~4HK xx Charged H.Hooligan slide.
 - DR HP on reaction to yoga arc
 
+#DJ
+- Punish Sobat with 5LP or 5LK depending on distance
+- Unless 2LP xx Sobat
+
 #Guile
 - Spin knuckle keeps booms in check so zoning is harder (mp is fine to get through a boom w/o threat of punish)
 - Upclose Cammy wins since her buttons are fast, she has great pressure and the threat of dive kick
