@@ -5,6 +5,13 @@
 - Hooligan Slide hits low, won't get hit by SA2.  Good for oki in "obvious" reversal situations.  Try 4MP~~4HK xx Charged H.Hooligan slide.
 - DR HP on reaction to yoga arc
 
+#Guile
+- Spin knuckle keeps booms in check so zoning is harder (mp is fine to get through a boom w/o threat of punish)
+- Upclose Cammy wins since her buttons are fast, she has great pressure and the threat of dive kick
+- Cammy is really good at stopping sonic blade in neutral (sweep)
+- Meaty light spiral arrow
+- Lab jump ins. The sweet spot is when he’s let go of charge for FK. Cr. HP is prone to trading at best. St. MK is more consistent but still has a trading problem. It’s also not as bad as getting hit by FK
+
 #JP
 - Amnesia response in corner: 4MP~~4HK xx DI (DR 4HK, DR 5HP xx DR 5HP xx Charged H.CannonSpike xx SA3)
 - Regular Spikes, Fireballs and Portals are reactable with SA3.  Depending on spacing, fake fireball can be caught too.  Especially helpful when JP is full screen trying to hit you with oki
