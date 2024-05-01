@@ -1,4 +1,5 @@
 #5/1/24
+
 **Time to learn Ken's BS**
 - Perfect parry \ DI \ DP timing for Dragonlash?
 - What to do against Jinrai?  OD DP?
