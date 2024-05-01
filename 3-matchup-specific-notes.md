@@ -7,7 +7,7 @@
 
 #DJ
 - Punish Sobat with 5LP or 5LK depending on distance
-- Unless 2LP xx Sobat
+  * Unless 2LP xx Sobat
 
 #Guile
 - Spin knuckle keeps booms in check so zoning is harder (mp is fine to get through a boom w/o threat of punish)
