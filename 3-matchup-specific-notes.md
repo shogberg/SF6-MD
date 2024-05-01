@@ -15,3 +15,8 @@
 #JP
 - Amnesia response in corner: 4MP~~4HK xx DI (DR 4HK, DR 5HP xx DR 5HP xx Charged H.CannonSpike xx SA3)
 - Regular Spikes, Fireballs and Portals are reactable with SA3.  Depending on spacing, fake fireball can be caught too.  Especially helpful when JP is full screen trying to hit you with oki
+
+#Ken
+- I think Jab CH confirm into 2MP works well vs ken 2MK, Ken 2MP beats Jab but loses to Cammy 2MK.
+- Interrupt Jinrai with OD DP until they start blocking
+- Not sure what to do vs Dragonlash besides perfect parry right now
