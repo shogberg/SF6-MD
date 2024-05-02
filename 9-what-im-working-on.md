@@ -1,9 +1,16 @@
+#5/2/24
+
+**General Neutral**
+- Stop pressing when I'm negative, unless its intentional due to seeing opponents not taking their turn back
+- Take advantage of people taking their turn back with frame traps
+
 #5/1/24
 
 **Spacing**
 - Be more patient in 2MK range, otherwise good players will clip me and get free damage.  Wait for space and backdash
 
 **DP Punish**
+- Spend 5 bars meter (Jump HP), 5HP xx DR 4HK, DR 5HP xx L.Spin Knuckle, DR 5HP xx Charged CannonSpike xx SA3 
 - Meterless in corner 2HP, 4HK, M.SpiralArrow, H.CannonSpike
 - Safejump 2HP, 4HK, M.SpiralArrow, Jump.HP
 
