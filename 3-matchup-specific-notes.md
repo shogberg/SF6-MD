@@ -21,7 +21,7 @@
 - Lab jump ins. The sweet spot is when he’s let go of charge for FK. Cr. HP is prone to trading at best. St. MK is more consistent but still has a trading problem. It’s also not as bad as getting hit by FK
 
 #Jamie
- - to deal with Jamie HP loop
+ - to deal with Jamie HP loop (doesnt work if youre burned out)
    * 5MP into L.Divekick
    * 5MP, backdash, 2MP
 
