@@ -1,11 +1,15 @@
 #Blanka
 - Can punish a blocked H.Ball with SA3 as long as you're not burned out
 
+#Chun
+- Need to spin knuckle a few fireballs (safely) to send a message that fireballs aren't free.  Overload mental stack
+
 #Dhalsim
 - Hooligan Slide hits low, won't get hit by SA2.  Good for oki in "obvious" reversal situations.  Try 4MP~~4HK xx Charged H.Hooligan slide.
 - DR HP on reaction to yoga arc
 
 #DJ
+- Spin Knuckle a few fireballs to send a message that they aren't free.  Don't go crazy, fake fireball is a nightmare to deal with
 - Punish Sobat with 5LP or 5LK depending on distance
   * Unless 2LP xx Sobat
 
