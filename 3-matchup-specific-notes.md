@@ -24,6 +24,7 @@
  - to deal with Jamie HP loop (doesnt work if youre burned out)
    * 5MP into L.Divekick
    * 5MP, backdash, 2MP
+ - Can punish drink on react with SA3 full screen
 
 #JP
 - Amnesia response in corner: 4MP~~4HK xx DI (DR 4HK, DR 5HP xx DR 5HP xx Charged H.CannonSpike xx SA3)
