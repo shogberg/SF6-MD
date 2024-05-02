@@ -37,7 +37,7 @@
   - 5HP xx DR 5MP (confirm) 2MP xx H.Spiral Arrow (or combo ender of your choice)
 - 5HP xx DR 2LK
   - 5HP xx DR 2LK, 2|5LP block string
-  - Reset | DP bait: 5HP xx DR 2LK, 2LP, xx L.Hooligan
+  - Sideswitch\Crossup Reset | DP bait: 5HP xx DR 2LK, 2LP, xx L.Hooligan
     - This will make a mashed OD DP miss, will also side swap (no input for slide low, LK for divekick)
   - 5HP xx DR 2LK, 2LP, 2LP xx M.Spiral Arrow
     - confirm.  Can end with SA3 (3391 dmg non CA)
