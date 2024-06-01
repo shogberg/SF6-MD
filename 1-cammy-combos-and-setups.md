@@ -4,6 +4,8 @@
 	* 2LP and 5LP are interchangeable
 - 2MK xx DR 2HP, 5HP xx H.SpiralArrow
 	* Can use 5HP or 2MP instead of 2MK to get the party started
+- 2MK xx DR 2HP, 5HP~5HK L.SpiralArrow
+	* as of season 2 patch this is almost universally better than the old route above, though oki timing is easier on the old route imo. 	
 - DiveKick jab, jab xx M.SpiralArrow
 	* Don't press a button if the divekick is blocked above the waist (or hits around shoulder|head)
 - Oki: 2HP, 5HP  xx H.SpiralArrow
@@ -30,10 +32,14 @@
 		- These are tough confirms out of a random neutral poke, but very doable if you're looking for a whiff punish
 - Meterless PC
 	* 5HP xx H.Spin Knuckle, 5LK xx M.Spiral Arrow (2510)
+ 	* 2HP, 5HP~5HK L.SpiralArrow (can add M.CannonSpike in corner)
+  		- As of season 2 patch this is always superior to the old route	
 - DP Punish
 	* 2HP, 5HP xx DR 4HK xx H.Spiral Arrow M.Cannon Spike (3284)
 		- Should be able to get H.Cannon Spike in the corner (3386)
-	* 2HP, 5HP xx DR 4HK, SA3 (4544|4839) 
+	* 2HP, 5HP xx DR 4HK, SA3 (4544|4839)
+ 	* (optional: Jump HP), 5HP xx DR 4HK, DR 5HP xx L.Spin Knuckle, DR 5HP xx Charged CannonSpike xx SA3
+  		- this is probably optimal, 5 bar drive gauge usage and as much or more damage as 2x drc cash out combo   
 - Counter Hit
 	* 2|5LP, 2MP xx M.SpiralArrow | M.CannonSpike
 		- Or extend with drive rush cancel into 2HP 5HP xx M.SpiralArrow|M.CannonSpike
